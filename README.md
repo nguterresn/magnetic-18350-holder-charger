@@ -48,6 +48,18 @@ The magnetic connector is a circular 10mm diameter circle which receives either 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Symbols and Footprints designed
+
+### Symbols
+
+All the symbols are in the same symbol library [here](https://github.com/nguterresn/magnetic-18350-holder-charger/blob/master/pcb/magnetic-18350-holder-charger/New_Library.kicad_sym).
+
+### Footprints
+
+- [TP4056](https://github.com/nguterresn/magnetic-18350-holder-charger/blob/master/pcb/magnetic-18350-holder-charger/NewLibraryFootprint.pretty/BatteryCharger4096.kicad_mod)
+- [Lithium 18350 1P Holder](https://github.com/nguterresn/magnetic-18350-holder-charger/blob/master/pcb/magnetic-18350-holder-charger/NewLibraryFootprint.pretty/18350-Holder.kicad_mod)
+- [Magnetic Connector](https://github.com/nguterresn/magnetic-18350-holder-charger/blob/master/pcb/magnetic-18350-holder-charger/NewLibraryFootprint.pretty/MagneticInput.kicad_mod)
+
 <!-- GETTING STARTED -->
 <!-- ## Getting Started
 
