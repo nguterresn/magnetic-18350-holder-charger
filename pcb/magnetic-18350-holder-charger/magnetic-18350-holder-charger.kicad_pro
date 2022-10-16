@@ -385,7 +385,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "magnetic-18350-holder-charger.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
